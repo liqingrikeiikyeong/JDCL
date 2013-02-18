@@ -44,6 +44,8 @@
 
 ##二、更合理的组件架构
 
+![ Arch](https://f.cloud.github.com/assets/458894/148785/d2178152-7511-11e2-866b-2d65237e8155.png)
+
 ###1. 模块加载「Loader」
 优先级最高，页面脚本入口
 > Require.js
