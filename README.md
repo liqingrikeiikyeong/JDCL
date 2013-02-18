@@ -5,4 +5,4 @@ JDCL
 
 * HTML
 * CSS
-* [JavaScript](https://github.com/keelii/JDCL/blob/master/JavaScript.md)
+* [JavaScript](https://github.com/JDFE/JDCL/blob/master/JavaScript.md)
